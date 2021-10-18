@@ -2,7 +2,7 @@
 Blender exercise to create a low poly landscape.
 Current state:
 
-![current_status1710](https://user-images.githubusercontent.com/36500094/137636623-0505d198-8ad3-4314-848b-dbddbe3ada0d.PNG)
+![current_status1810](https://user-images.githubusercontent.com/36500094/137779284-c2ba051c-91c7-4759-b7dc-3fc48e7add03.PNG)
 
 Final desired state:
 
